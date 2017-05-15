@@ -9,8 +9,8 @@ Functionality:
   - Export entry as bibtex.
 
 Front End Libraries:
-  -Bootstrap 3.3.7
-  -jQuery 1.12.4
+  - Bootstrap 3.3.7
+  - jQuery 1.12.4
 
 Back End:
   - Spring Framework 4.3.8
